@@ -1,1 +1,1 @@
-{"domains": ["findthehidder.com"]}
+{"domains": ["findthehidder.com", "firewatch-game.com"]}
